@@ -5,11 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Golang and Python
-- ⚒ I’m currently work Mobile Engenering with Flutter
-- 👀 want to know more about me, Look: this
-- 📫 How to reach me: Agus Prayogi
-
 
 -->
 
@@ -17,7 +12,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🌱 I’m currently learning Golang and Python
 - 👀 want to know more about me, Look: [this](https://doniwyk.github.io)
-- 📫 How to reach me: [Agus Prayogi](mailto:doniwyk@gmail.com)
+- 📫 How to reach me: [Doni Wahyu](mailto:doniwyk@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/doniwyk) 
