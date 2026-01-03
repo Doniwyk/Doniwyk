@@ -1,17 +1,8 @@
 ## Hi there 👋 I'm Doni
 
-<!--
-**Doniwyk/Doniwyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
-
 # 💫 About Me:
-- 🌱 I’m currently learning Golang and Python
-- 👀 want to know more about me, Look: [this](https://doniwyk.github.io)
+- 🌱 I’m currently focus on learning backend dev
+- 👀 want to know more about me, Look: [this](https://doniwyk.my.id)
 - 📫 How to reach me: [Doni Wahyu](mailto:doniwyk@gmail.com)
 
 ## 🌐 Socials:
