@@ -10,4 +10,3 @@
 
 ## 📊 Stats:
 <img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Doniwyk&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" /> 
-<img alt="ViewCount" src="https://views.whatilearened.today/views/github/fadilahonespot/fadilahonespot.svg" />
