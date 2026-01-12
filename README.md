@@ -9,5 +9,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/doniwyk) 
 
 ## 📊 Stats:
-<img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agusprayogi02&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" /> 
+<img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Doniwyk&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" /> 
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/fadilahonespot/fadilahonespot.svg" />
